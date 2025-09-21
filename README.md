@@ -104,11 +104,6 @@ See `outputs/test_classification_report.csv` for full per-label metrics.
 - No hyperparameter tuning; adding GridSearchCV could enhance model performance.
 - Limited to English text; multilingual support could be added.
 
-## Credits
-
-- Built by [Your Name].
-- Dataset appears to be from a dialogue/intent recognition source (similar to SNIPS or ATIS).
-
 ## Troubleshooting
 
 - **NLTK data issues**: Ensure `nltk.download()` commands are run successfully.
